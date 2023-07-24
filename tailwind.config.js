@@ -12,7 +12,10 @@ module.exports = {
       },
       colors:{
         primary: "#1B3351",
-        pup:"#240621"
+        pup:"#240621",
+        first:"rgb(15, 23, 42)",
+        second:"rgb(88, 28, 135)",
+        third:"rgb(15, 23, 42)"
       }
     },
   },

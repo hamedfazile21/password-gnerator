@@ -35,7 +35,7 @@ function App() {
   }
   return (
     <React.Fragment>
-      <div className='flex flex-col items-center justify-center h-[100vh] '>
+      <div className='flex flex-col items-center justify-center h-[100vh] bg-[conic-gradient(at_top,_var(--tw-gradient-stops))] from-gray-900 via-white to-gray-900 '>
         <div className="flex flex-col items-center justify-center w-[25%]">
           <div className='bg-gray-700 w-full rounded-md'>
             <div className='flex flex-row items-center justify-between w-full p-5'>
